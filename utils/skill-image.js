@@ -62,7 +62,7 @@ import sketch from '../app/assets/svg/skills/sketch.svg';
 import ReactNative from '../app/assets/svg/skills/ReactNative.svg';
 import Express from '../app/assets/svg/skills/Express.svg';
 import NodeJs from '../app/assets/svg/skills/NodeJs.svg';
-import VueJs from '../app/assets/svg/skills/VueJs.svg';
+import VueJs from '@/app/assets/svg/skills/VueJs.svg';
 import strapi from '../app/assets/svg/skills/strapi.svg';
 import svelte from '../app/assets/svg/skills/svelte.svg';
 import swift from '../app/assets/svg/skills/swift.svg';
